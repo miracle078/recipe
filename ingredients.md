@@ -1,4 +1,4 @@
-# File with heading
+# Ingredients
 
 This is a file with a top-level heading
 
